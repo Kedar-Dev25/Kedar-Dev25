@@ -129,7 +129,7 @@ I'm building a **real-world notification system** (Notify) to understand how bac
   - Production-grade code quality
 - 📚 **Learning:** System design, distributed systems, backend optimization
 
-**Repository:** [Notify](https://github.com/Kedar-Dev25/Notify) *(Coming soon)*
+**Repository:** [Notify](https://github.com/Kedar-Dev25/Kedar-Dev25) *(In Progress)*
 
 ---
 
