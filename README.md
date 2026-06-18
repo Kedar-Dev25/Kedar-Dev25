@@ -135,9 +135,9 @@ I'm building a **real-world notification system** (Notify) to understand how bac
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/kedar-dev25](https://linkedin.com/in/kedar-dev25)
+- 💼 **LinkedIn:** [linkedin.com/in/kedar-dev25](https://www.linkedin.com/in/kedarnath-mandal-74299a399/)
 - 💻 **GitHub:** [github.com/Kedar-Dev25](https://github.com/Kedar-Dev25)
-- 📧 **Email:** kedar.dev25@gmail.com
+- 📧 **Email:** kedar.code7@gmail.com
 
 ---
 
